@@ -1,0 +1,4 @@
+#Sat Jun 09 13:31:41 PDT 2018
+base.0=/home/ahnguye/reactnativeios/docusign/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/home/ahnguye/reactnativeios/docusign/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
